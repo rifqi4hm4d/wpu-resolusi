@@ -2,3 +2,5 @@ WPU Resolusi
 - Mendalami JavaScript
 - restart materi laravel 8
 - ngulik 2 jam sehari
+- Membuat Website portfolio
+- Membuat Blog

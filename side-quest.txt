@@ -1,9 +1,10 @@
 Rencana atau project lain
 - Membuat bot discord
 - Belajar python
-- Data Struktur dasar
 - JavaScript ES6
   * Laravel
+  * Angular
   * Vue
   * React
 - PHP Frameworks
+  * Codeigniter

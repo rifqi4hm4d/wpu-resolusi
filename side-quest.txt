@@ -4,6 +4,7 @@ Rencana atau project lain
 - JavaScript ES6
   * Laravel
   * Angular
+  * Vue
   * React
 - PHP Frameworks
-  Codeigniter
+  * Codeigniter

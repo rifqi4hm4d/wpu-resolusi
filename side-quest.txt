@@ -5,4 +5,5 @@ Rencana atau project lain
 - JavaScript ES6
   * Laravel
   * Vue
+  * React
 - PHP Frameworks

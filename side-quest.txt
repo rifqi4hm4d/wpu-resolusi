@@ -3,3 +3,7 @@ Rencana atau project lain
 - Belajar python
 - Data Struktur dasar
 - JavaScript ES6
+  * Laravel
+  * Vue
+  * React
+- PHP Frameworks

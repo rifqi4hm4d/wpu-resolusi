@@ -1,3 +1,4 @@
 Rencana atau project lain
 - Membuat bot discord
 - Belajar python
+- JavaScript ES6
